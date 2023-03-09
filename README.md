@@ -12,7 +12,7 @@ The project should a folder with a `README.md` file contained in it. The followi
 * Advisor with email
 * Description
 
-If it is open for application, please include your project in the following list.
+If your proejct is open for application, please include it in the above list.
 
 ## How to apply?
 Please write an email to the advisor before submitting your application.
