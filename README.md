@@ -10,7 +10,7 @@ This is a repository for collecting project ideas for open source events. The op
 By creating a pull request.
 The project should a folder with a `README.md` file contained in it. The following information must be contained in the README.
 * Advisor with email
-* Description
+* Project description
 
 If your proejct is open for application, please include it in the above list.
 
