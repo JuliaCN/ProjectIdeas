@@ -5,6 +5,7 @@ This is a repository for collecting project ideas for open source events. The op
 
 ## List of projects open for application
 * [TropicalGEMM on GPU](tropicalgpu)
+* [ZXW-calculus in Julia](zx-calculus)
 
 ## How to contribute to this list?
 By creating a pull request.
