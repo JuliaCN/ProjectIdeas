@@ -7,6 +7,7 @@ This is a repository for collecting project ideas for open source events. The op
 * [TropicalGEMM on GPU](tropicalgpu)
 * [ZXW-calculus in Julia](zx-calculus)
 * [Qudit stabilizer simulator](qudit-stabilizer)
+* [Inverse free Solovay-Kitaev algorithm](solovay-kitaev)
 
 ## How to contribute to this list?
 By creating a pull request.
