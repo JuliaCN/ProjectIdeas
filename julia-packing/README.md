@@ -4,6 +4,10 @@
 
 Johnny Chen (johnnychen94@hotmail.com)
 
+## Difficulty
+
+Advanced: student will need to find a way to extend Julia's package delivery design
+
 ## Description
 
 Currently, there is only one way to reproduce your julia project in other machines: copy the `Manifest.toml` and `Project.toml` and then `pkg> instantiate`. However, this method requires the target machine have the network access to the same pkg server as the source machine, which is not always the case.
