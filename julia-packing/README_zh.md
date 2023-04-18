@@ -4,6 +4,10 @@
 
 陈久宁 (johnnychen94@hotmail.com)
 
+## 难度
+
+进阶：要求学生找到一个恰当的扩展 Julia 打包及分发系统的方式
+
 ## 说明
 
 目前，Julia 社区提供的唯一一种在其他机器上复现 Julia 项目的方法是：复制 `Manifest.toml` 和 `Project.toml`，然后执行 `pkg> instantiate`。但是，这种方法要求目标机器能够访问与源机器相同的 pkg 服务器，这并不总是可行的。
