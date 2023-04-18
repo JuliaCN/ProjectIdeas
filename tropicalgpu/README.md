@@ -1,9 +1,12 @@
 # TropicalGEMM on GPU
+## Difficulty level
+Advanced
+
 ## Advisor
 
 Jinguo Liu (cacate0129@gmail.com)
 
-## Description
+## Project Description
 
 Using `CUDA.jl` to implement matrix multiplication (GEMM) for tropical numbers.
 In mathematics, tropical algebra is a semiring with the addition replaced with maximization and the multiplication replaced with ordinary addition:
@@ -21,6 +24,9 @@ However, a CUDA implementation is still missing.
 * Using case: [Tropical Tensor Network for Ground States of Spin Glasses](https://arxiv.org/abs/2008.06888)
 * Libraries: [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) and [TropicalNumbers.jl](https://github.com/TensorBFS/TropicalNumbers.jl)
 
-### Required knowledge
+## Project Output Standard
+A working Julia implementation for Tropical GEMM on GPU, with better performance than the existing naive implementation.
+
+## Technical requirements
 * CUDA programming (professional),
 * Julia language (basic).
