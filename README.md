@@ -9,6 +9,7 @@ This is a repository for collecting project ideas for open source events. The op
 * [Qudit stabilizer simulator](qudit-stabilizer)
 * [Inverse free Solovay-Kitaev algorithm](solovay-kitaev)
 * [jlpack: Julia offline packaging solution](julia-packing)
+* [Translation of Julia documentation](julia-zh-docs)
 
 ## How to contribute to this list?
 By creating a pull request.
