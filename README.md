@@ -3,7 +3,7 @@
 This is a repository for collecting project ideas for open source events. The open source events include
 * [开源软件供应链点亮计划-开源之夏 (Open Source Promotion Plan, OSPP)](https://summer-ospp.ac.cn/)
 
-## List of projects open for application
+## List of projects
 * [TropicalGEMM on GPU](tropicalgpu)
 * [ZXW-calculus in Julia](zx-calculus)
 * [jlpack: Julia offline packaging solution](julia-packing)
