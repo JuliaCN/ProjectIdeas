@@ -4,9 +4,12 @@ This is a repository for collecting project ideas for open source events. The op
 * [开源软件供应链点亮计划-开源之夏 (Open Source Promotion Plan, OSPP)](https://summer-ospp.ac.cn/)
 
 ## List of projects
-* [TropicalGEMM on GPU](tropicalgpu)
-* [ZXW-calculus in Julia](zx-calculus)
-* [jlpack: Julia offline packaging solution](julia-packing)
+* [TropicalGEMM on GPU](tropicalgpu) (Completed or work in progress)
+* [ZXW-calculus in Julia](zx-calculus) (Completed or work in progress)
+* [jlpack: Julia offline packaging solution](julia-packing) (Active)
+* [The inverse free Solovay-Kitaev algorithm](solovay-kitaev) (Active)
+* [Qudit stabilizer simulator](qudit-stabilizer) (Active)
+* [Language Model Based Translation of Julia Documentation](automatic-doc-translation) (Active)
 
 ## How to contribute to this list?
 By creating a pull request.
