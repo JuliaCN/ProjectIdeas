@@ -26,6 +26,10 @@ To future explore the capability of tropical tensor networks, the reduction betw
 
 ## Technical Requirements
 * Familiar with Julia
+* Interested in computational complexity
+
+## GitHub Repository
+* https://github.com/GiggleLiu/ProblemReductions.jl
 
 ## References
 [^Liu2023]: Liu, Jin-Guo, et al. "Computing solution space properties of combinatorial optimization problems via generic tensor networks." SIAM Journal on Scientific Computing 45.3 (2023): A1239-A1270.
