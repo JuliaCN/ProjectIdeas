@@ -5,14 +5,15 @@ This is a repository for collecting project ideas for open source events. The op
 
 ## List of projects
 * [TropicalGEMM on GPU](tropicalgpu) (Completed)
-* [ZXW-calculus in Julia](zx-calculus) (Completed or work in progress)
+* [ZXW-calculus in Julia](zx-calculus) (Completed)
 * [jlpack: Julia offline packaging solution](julia-packing) (Outdated)
 * [The inverse free Solovay-Kitaev algorithm](solovay-kitaev) (Outdated)
 * [Qudit stabilizer simulator](qudit-stabilizer) (Outdated)
 * [Language Model Based Translation of Julia Documentation](automatic-doc-translation) (Outdated)
-* [Tropical Neural Networks for Reasoning](tropical-neural-network) (Active)
+* [Tropical Neural Networks for Reasoning](tropical-neural-network) (Completed)
 * [Exact Diagonalization for Quantum Lattice Systems with Translation Symmetry](ed-translation-symmetry) (Active)
 * [Problem Reduction](problem-reduction) (Active)
+* [Universal Enveloping Algebras in Julia](lie-algebra) (Active)
 
 ## How to contribute to this list?
 By creating a pull request.
