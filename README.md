@@ -12,6 +12,7 @@ This is a repository for collecting project ideas for open source events. The op
 * [Language Model Based Translation of Julia Documentation](automatic-doc-translation) (Active)
 * [Tropical Neural Networks for Reasoning](tropical-neural-network) (Active)
 * [Exact Diagonalization for Quantum Lattice Systems with Translation Symmetry](ed-translation-symmetry) (Active)
+* [Problem Reduction](problem-reduction) (Active)
 
 ## How to contribute to this list?
 By creating a pull request.
